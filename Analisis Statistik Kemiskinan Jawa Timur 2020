@@ -1,0 +1,72 @@
+📊 Analisis Statistik Kemiskinan Jawa Timur 2020
+Deskripsi Project:
+Project ini membahas analisis statistik data kemiskinan kabupaten/kota di Jawa Timur tahun 2020 menggunakan data dari Badan Pusat Statistik (BPS).
+
+Analisis dilakukan untuk mengetahui:
+Jumlah penduduk miskin di setiap daerah
+Persentase kemiskinan kabupaten/kota
+Proporsi data kemiskinan
+Varians data (S²)
+Perbedaan tingkat kemiskinan antar wilayah
+
+Tujuan Project:
+Menganalisis kondisi kemiskinan di Jawa Timur tahun 2020
+Membandingkan tingkat kemiskinan antar kabupaten/kota
+Mengidentifikasi daerah dengan tingkat kemiskinan tinggi dan rendah
+Melatih kemampuan analisis data statistik menggunakan Excel
+
+Tools yang Digunakan:
+Microsoft Excel
+Statistik Deskriptif
+Visualisasi Data
+
+Dataset
+Sumber Data:
+Badan Pusat Statistik (BPS) Jawa Timur 2020
+
+Data yang digunakan meliputi:
+Kabupaten/Kota
+Jumlah Penduduk Miskin (Ribuan Jiwa)
+Persentase Kemiskinan
+Proporsi Data
+Nilai Deviasi (xi − x̄)
+Varians Data (S²)
+
+Metode Analisis
+Metode yang digunakan:
+Statistik deskriptif
+Perhitungan persentase
+Perhitungan proporsi
+Perhitungan varians (S²)
+Penyajian grafik data
+Interpretasi hasil analisis
+Tahapan Pengolahan Data
+Mengumpulkan data kemiskinan dari BPS Jawa Timur
+Menginput data ke Microsoft Excel
+Membuat tabel dan mengolah data
+Menghitung rata-rata, proporsi, dan varians
+Menyusun visualisasi grafik
+Menginterpretasikan hasil analisis
+
+Hasil Analisis:
+Hasil analisis menunjukkan bahwa:
+Kabupaten Probolinggo memiliki tingkat kemiskinan tertinggi sebesar 18,61%
+Kabupaten Pacitan dan Bondowoso juga memiliki tingkat kemiskinan yang relatif tinggi, masing-masing sebesar 14,54% dan 14,17%
+Kota Batu memiliki tingkat kemiskinan terendah sebesar 3,89%
+Kota Madiun dan Surabaya juga memiliki tingkat kemiskinan yang relatif rendah dibandingkan daerah lainnya
+Rata-rata tingkat kemiskinan Jawa Timur tahun 2020 sebesar 14,90%
+Nilai varians (S² = 170,01) menunjukkan adanya variasi tingkat kemiskinan antar kabupaten/kota
+Data ini menunjukkan bahwa masih terdapat ketimpangan tingkat kesejahteraan antar wilayah di Jawa Timur sehingga diperlukan upaya pembangunan yang lebih merata untuk mengurangi kesenjangan sosial ekonomi.
+
+Skill yang Dipelajari:
+Data Analysis
+Statistik Deskriptif
+Pengolahan Data Excel
+Data Visualization
+Interpretasi Statistik
+Analisis Sosial Ekonomi
+
+Author:
+Oktaviani Eka Putri
+
+#Data Analysis #Statistics #Microsoft Excel #BPS Kemiskinan Jawa Timur #Data Visualization #Portfolio Project
